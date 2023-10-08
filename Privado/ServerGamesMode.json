@@ -21,6 +21,17 @@
 			"descripciongame":"un mapa para experimentar con objetos o probar armas.",
 			"createdgame":"6 de octubre del 2023",
 			"openmapname":"testmap"
+		},
+
+		{
+			"activogame":true,
+			"condicionvictoria":false,
+			"starttime":99,
+			"iconogame":"https://playmodapp.ru/uploads/posts/2019-08/1565973476_fortnite-battle-royale.jpg",
+			"namegame":"just go up",
+			"descripciongame":"el mejor mapa para conseguir experiencia!",
+			"createdgame":"8 de octubre del 2023",
+			"openmapname":"none"
 		}
 	]
 }
