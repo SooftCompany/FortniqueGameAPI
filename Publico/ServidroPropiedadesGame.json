@@ -9,6 +9,6 @@
 		"DiscrodInvite":"https://discord.gg/gwkrzhtY",
 		"PremiumPase":"capitulo1-temporada3",
 		"InformationGame":["Ya no es un beta.","version estable!"],
-		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerGamesMode.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerMediaPlay.json"]
+		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueGameAPI//Privado/ServerVirtualItems.json","https://sooftcompany.github.io/FortniqueGameAPI//Privado/ServerGamesMode.json","https://sooftcompany.github.io/FortniqueGameAPI//Privado/ServerMediaPlay.json"]
 	}
 }
