@@ -1,0 +1,10 @@
+{
+	"BattlePassPremium":
+	{
+		"SeasonActive":true,
+		"IconoPreview":"https://fortnite.gg/img/seasons/3.jpg",
+		"SeasonName":"Temporada 3 Capitulo 1",
+		"SeasonValor":950,
+		"SeasonCosmeticos":["CID_084_Athena_Commando_M_Assassin","CID_088_Athena_Commando_M_SpaceBlack","CID_080_Athena_Commando_M_Space","CID_081_Athena_Commando_F_Space","CID_082_Athena_Commando_M_Scavenger","CID_083_Athena_Commando_F_Tactical","EID_Robot","EID_TakeTheL","EID_BestMates","EID_Salute","Pickaxe_ID_029_Assassin","Pickaxe_ID_028_Space","Pickaxe_ID_027_Scavenger","BID_028_SpaceBlack","BID_024_Space","BID_025_Tactical","Glider_ID_015_Brite","Glider_ID_016_Tactical","LSID_004_TacticalShotgun","LSID_005_SuppressedPistol","LSID_002_Raptor","LSID_006_Minigun","LSID_003_Pickaxes","LSID_007_TacticalCommando","LSID_001_Brite"]
+	}
+}

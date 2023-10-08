@@ -1,0 +1,49 @@
+{
+	"ShopDigitaleItems01":
+	[
+		{
+			"State":true,
+			"Fondo":"morado",
+			"IconoItem":"T_VBucks_Tile_1000_Details_New.png",
+			"NameItem":"VBucks",
+			"VauleItem":1000,
+			"USD":10
+		},
+
+		{
+			"State":true,
+			"Fondo":"morado",
+			"IconoItem":"T_VBucks_Tile_2800_Details_New.png",
+			"NameItem":"VBucks",
+			"VauleItem":2800,
+			"USD":25
+		},
+
+		{
+			"State":true,
+			"Fondo":"morado",
+			"IconoItem":"T_VBucks_Tile_13500_Details_New.png",
+			"NameItem":"VBucks",
+			"VauleItem":13500,
+			"USD":50
+		},
+
+		{
+			"State":true,
+			"Fondo":"azulclaro",
+			"IconoItem":"IKONIKPACKIN2018.jpg",
+			"NameItem":"SAMSUNG GALAXY",
+			"CosmeticoPack":["CID_313_Athena_Commando_M_KpopFashion","EID_KPopDance03"],
+			"VauleItem":6000
+		},
+
+		{
+			"State":true,
+			"Fondo":"azuloscuro",
+			"IconoItem":"TWITCHPRIMEPACK2021.jpg",
+			"NameItem":"TWITCH PRIME PACK",
+			"CosmeticoPack":["CID_114_Athena_Commando_F_TacticalWoodland","EID_HipHop01"],
+			"VauleItem":6000
+		}
+	]
+}

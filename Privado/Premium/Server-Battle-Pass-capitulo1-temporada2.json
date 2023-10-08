@@ -1,0 +1,10 @@
+{
+	"BattlePassPremium":
+	{
+		"SeasonActive":true,
+		"IconoPreview":"https://fortnite.gg/img/seasons/bg/2.jpg",
+		"SeasonName":"Temporada 2 Capitulo 1",
+		"SeasonValor":950,
+		"SeasonCosmeticos":["CID_035_Athena_Commando_M_Medieval","CID_039_Athena_Commando_F_Disco","CID_032_Athena_Commando_M_Medieval","CID_033_Athena_Commando_F_Medieval","EID_Worm","EID_RideThePony_Athena","EID_Floss","EID_Wave","Pickaxe_ID_013_Teslacoil","Pickaxe_ID_012_District","Pickaxe_ID_011_Medieval","BID_004_BlackKnight","BID_001_BlueSquire","Glider_ID_004_Disco","Glider_ID_002_Medieval","Glider_ID_003_District"]
+	}
+}

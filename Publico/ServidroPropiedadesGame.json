@@ -1,0 +1,14 @@
+{
+	"ServidorGamePublic01":
+	{
+		"Active":true,
+		"Update":1.7,
+		"XPreward":990000,
+		"VBreward":100,
+		"Title":"Fortnique",
+		"DiscrodInvite":"https://discord.gg/gwkrzhtY",
+		"PremiumPase":"capitulo1-temporada3",
+		"InformationGame":["Ya no es un beta.","version estable!"],
+		"ServiciosPrivate":["https://sooftcompany.github.io/FortniqueServidor/Privado/ServerVirtualItems.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerGamesMode.json","https://sooftcompany.github.io/FortniqueServidor/Privado/ServerMediaPlay.json"]
+	}
+}

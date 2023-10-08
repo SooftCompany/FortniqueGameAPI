@@ -1,0 +1,26 @@
+{
+	"ServerGamesModes":
+	[
+		{
+			"activogame":true,
+			"condicionvictoria":true,
+			"starttime":99,
+			"iconogame":"https://playmodapp.ru/uploads/posts/2019-08/1565973476_fortnite-battle-royale.jpg",
+			"namegame":"Battle Royale",
+			"descripciongame":"una batalla contra bots, consigue la victoria para conseguir XP.",
+			"createdgame":"5 de octubre de 2023",
+			"openmapname":"codemap93uhueu9"
+		},
+
+		{
+			"activogame":true,
+			"condicionvictoria":false,
+			"starttime":99,
+			"iconogame":"https://playmodapp.ru/uploads/posts/2019-08/1565973476_fortnite-battle-royale.jpg",
+			"namegame":"Testeos",
+			"descripciongame":"un mapa para experimentar con objetos o probar armas.",
+			"createdgame":"6 de octubre del 2023",
+			"openmapname":"testmap"
+		}
+	]
+}
