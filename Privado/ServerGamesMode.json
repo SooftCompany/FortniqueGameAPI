@@ -5,7 +5,7 @@
 			"activogame":true,
 			"condicionvictoria":true,
 			"starttime":99,
-			"iconogame":"https://playmodapp.ru/uploads/posts/2019-08/1565973476_fortnite-battle-royale.jpg",
+			"iconogame":"https://media.comicbook.com/2018/03/fortnite-battle-royale-1-1095585.jpeg",
 			"namegame":"Battle Royale",
 			"descripciongame":"una batalla contra bots, consigue la victoria para conseguir XP.",
 			"createdgame":"5 de octubre de 2023",
@@ -43,6 +43,17 @@
 			"descripciongame":"un mundo de Minecraft, no esta optimizado el modo.",
 			"createdgame":"9 de octubre del 2023",
 			"openmapname":"SurvivalMinecraftBace"
+		},
+
+		{
+			"activogame":false,
+			"condicionvictoria":false,
+			"starttime":99,
+			"iconogame":"https://wallpaperaccess.com/full/274844.jpg",
+			"namegame":"Save you world",
+			"descripciongame":"lucha con zombies llega a la puerta para ganar!",
+			"createdgame":"10 de octubre del 2023",
+			"openmapname":"none"
 		}
 	]
 }
