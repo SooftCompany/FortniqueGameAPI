@@ -24,14 +24,25 @@
 		},
 
 		{
-			"activogame":true,
+			"activogame":false,
 			"condicionvictoria":false,
 			"starttime":99,
-			"iconogame":"https://playmodapp.ru/uploads/posts/2019-08/1565973476_fortnite-battle-royale.jpg",
+			"iconogame":"https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/08/control.jpg",
 			"namegame":"just go up",
 			"descripciongame":"el mejor mapa para conseguir experiencia!",
 			"createdgame":"8 de octubre del 2023",
 			"openmapname":"none"
+		},
+
+		{
+			"activogame":true,
+			"condicionvictoria":false,
+			"starttime":99,
+			"iconogame":"https://img.olhardigital.com.br/uploads/acervo_imagens/2019/04/20190418010559.jpg",
+			"namegame":"Minecraft X Fortnique",
+			"descripciongame":"un mundo de Minecraft, no esta optimizado el modo.",
+			"createdgame":"9 de octubre del 2023",
+			"openmapname":"SurvivalMinecraftBace"
 		}
 	]
 }
