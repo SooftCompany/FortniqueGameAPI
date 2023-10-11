@@ -46,7 +46,7 @@
 		},
 
 		{
-			"activogame":false,
+			"activogame":true,
 			"condicionvictoria":false,
 			"starttime":99,
 			"iconogame":"https://wallpaperaccess.com/full/274844.jpg",
