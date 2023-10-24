@@ -2,6 +2,7 @@
 	"BattlePassPremium":
 	{
 		"SeasonActive":true,
+		"MensajeErroño":"el pase de la temporada 4 sera retrasado devido a un error en nuesto exportador de cosmetico (dejo de funcionar)",
 		"IconoPreview":"https://fortnite.gg/img/seasons/4.jpg",
 		"SeasonName":"Temporada 4 Capitulo 1",
 		"SeasonValor":950,
