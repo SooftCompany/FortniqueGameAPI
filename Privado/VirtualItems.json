@@ -3,6 +3,42 @@
 	[
 		{
 			"estadopack":true,
+			"realmoney":true,
+			"fondopack":"azulclaro",
+			"urlimagenpreviewpack":"T_VBucks_Tile_1000_Details_New.png",
+			"namepack":"VBucks - 1000",
+			"vaulepack":1000,
+			"cosmeticospack":[]
+		},
+		{
+			"estadopack":true,
+			"realmoney":true,
+			"fondopack":"azulclaro",
+			"urlimagenpreviewpack":"T_VBucks_Tile_2800_Details_New.png",
+			"namepack":"VBucks - 2800",
+			"vaulepack":2800,
+			"cosmeticospack":[]
+		},
+		{
+			"estadopack":true,
+			"realmoney":true,
+			"fondopack":"azulclaro",
+			"urlimagenpreviewpack":"T-VBucks-Details-5000.png",
+			"namepack":"VBucks - 5000",
+			"vaulepack":5000,
+			"cosmeticospack":[]
+		},
+		{
+			"estadopack":true,
+			"realmoney":true,
+			"fondopack":"azuloscuro",
+			"urlimagenpreviewpack":"T_VBucks_Tile_13500_Details_New.png",
+			"namepack":"VBucks - 13500",
+			"vaulepack":13500,
+			"cosmeticospack":[]
+		},
+		{
+			"estadopack":true,
 			"realmoney":false,
 			"fondopack":"moradooscuro",
 			"urlimagenpreviewpack":"IKONIKPACKIN2018.jpg",
