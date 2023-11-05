@@ -45,6 +45,15 @@
 			"namepack":"SAMSUNG GALAXY",
 			"vaulepack":5000,
 			"cosmeticospack":["CID_313_Athena_Commando_M_KpopFashion","EID_KPopDance03"]
+		},
+		{
+			"estadopack":true,
+			"realmoney":false,
+			"fondopack":"moradooscuro",
+			"urlimagenpreviewpack":"TWITCHPRIMEPACK2021.jpg",
+			"namepack":"TWITCH PRIME PACK #2",
+			"vaulepack":5000,
+			"cosmeticospack":["CID_114_Athena_Commando_F_TacticalWoodland","EID_HipHop01"]
 		}
 	]
 }
