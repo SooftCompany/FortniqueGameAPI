@@ -1,0 +1,14 @@
+{
+	"VirtualItems":
+	[
+		{
+			"estadopack":true,
+			"realmoney":false,
+			"fondopack":"moradooscuro",
+			"urlimagenpreviewpack":"IKONIKPACKIN2018.jpg",
+			"namepack":"SAMSUNG GALAXY",
+			"vaulepack":5000,
+			"cosmeticospack":["CID_313_Athena_Commando_M_KpopFashion","EID_KPopDance03"]
+		}
+	]
+}
