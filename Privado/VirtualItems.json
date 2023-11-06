@@ -7,7 +7,7 @@
 			"fondopack":"azulclaro",
 			"urlimagenpreviewpack":"T_VBucks_Tile_1000_Details_New.png",
 			"namepack":"VBucks - 1000",
-			"vaulepack":1000,
+			"vaulepack":3,
 			"cosmeticospack":[]
 		},
 		{
@@ -16,7 +16,7 @@
 			"fondopack":"azulclaro",
 			"urlimagenpreviewpack":"T_VBucks_Tile_2800_Details_New.png",
 			"namepack":"VBucks - 2800",
-			"vaulepack":2800,
+			"vaulepack":6,
 			"cosmeticospack":[]
 		},
 		{
@@ -25,7 +25,7 @@
 			"fondopack":"azulclaro",
 			"urlimagenpreviewpack":"T-VBucks-Details-5000.png",
 			"namepack":"VBucks - 5000",
-			"vaulepack":5000,
+			"vaulepack":10,
 			"cosmeticospack":[]
 		},
 		{
@@ -34,7 +34,7 @@
 			"fondopack":"azuloscuro",
 			"urlimagenpreviewpack":"T_VBucks_Tile_13500_Details_New.png",
 			"namepack":"VBucks - 13500",
-			"vaulepack":13500,
+			"vaulepack":25,
 			"cosmeticospack":[]
 		},
 		{
